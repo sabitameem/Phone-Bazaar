@@ -1,0 +1,15 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 20px;
+  
+}
+
+@media only screen and (max-width: 600px) {
+
+    .shop-container{
+        display: flex;
+        
+        
+    }
+}

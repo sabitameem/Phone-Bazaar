@@ -1,0 +1,163 @@
+[
+      {
+        "id": 1,
+        "name": "iPhone 13 Pro",
+        "picture": "https://www.mobiledokan.com/wp-content/uploads/2021/10/Apple-iPhone-13-Pro-Max-image.jpg",
+        "storage": "256 GB",
+        "price": "$999",
+        "details": "The iPhone 13 Pro features a 6.1-inch Super Retina XDR display, A15 Bionic chip, 5G connectivity, triple-camera system with Night mode, and more."
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy S21",
+        "picture": "https://www.mobile-dokan.com/wp-content/uploads/2022/08/Samsung-Galaxy-S21-5G-500x500.jpg",
+        "storage": "128 GB",
+        "price": "$799",
+        "details": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, Exynos 2100 processor, 5G connectivity, triple-camera system with 8K video, and more."
+      },
+      {
+        "id": 3,
+        "name": "Google Pixel 6",
+        "picture": "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/Google/Pixel%206/Pixel-6-Sorta-Seafoam-800x800.png",
+        "storage": "128 GB",
+        "price": "$699",
+        "details": "The Google Pixel 6 features a 6.4-inch AMOLED display, Google Tensor processor, 5G connectivity, dual-camera system with Night Sight and Ultra-wide lens, and more."
+      },
+      {
+        "id": 4,
+        "name": "OnePlus 9 Pro",
+        "picture": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9-pro/Morning%20mist-gallery.png",
+        "storage": "256 GB",
+        "price": "$999",
+        "details": "The OnePlus 9 Pro features a 6.7-inch Fluid AMOLED display, Snapdragon 888 processor, 5G connectivity, Hasselblad quad-camera system, and more."
+      },
+      {
+        "id": 5,
+        "name": "Xiaomi Mi 11",
+        "picture": "https://www.gsmmark.com/wp-content/uploads/2021/07/Xiaomi-Mi-11-Lite.jpg",
+        "storage": "128 GB",
+        "price": "$749",
+        "details": "The Xiaomi Mi 11 features a 6.81-inch AMOLED display, Snapdragon 888 processor, 5G connectivity, triple-camera system with 108MP main sensor, and more."
+      },
+      {
+        "id": 6,
+        "name": "Sony Xperia 5 III",
+        "picture": "https://www.mobiledokan.co/wp-content/uploads/2020/09/Sony-Xperia-5-III-Black.jpg",
+        "storage": "128 GB",
+        "price": "$999",
+        "details": "The Sony Xperia 5 III features a 6.1-inch OLED display, Snapdragon 888 processor, 5G connectivity, triple-camera system with ZEISS optics, and more."
+      },
+      {
+        "id": 7,
+        "name": "LG Velvet",
+        "picture": "https://www.mobiledokan.co/wp-content/uploads/2020/04/LG-Velvet-Black.jpg",
+        "storage": "128 GB",
+        "price": "$599",
+        "details": "The LG Velvet features a 6.8-inch OLED display, Snapdragon 845 processor, 5G connectivity, triple-camera system, and more."
+      },
+      {
+        "id": 8,
+        "name": "Motorola Edge+",
+        "picture": "https://www.mobiledokan.co/wp-content/uploads/2020/03/Motorola-Edge-Plus-Blue.jpg",
+        "storage": "256 GB",
+        "price": "$999",
+        "details": "The Motorola Edge+ features a 6.7-inch OLED display, Snapdragon 865 processor, 5G connectivity, triple-camera system with 108MP main sensor, and more."
+      },
+      {
+        "id": 9,
+        "name": "Huawei P40 Pro",
+        "picture": "https://www.gizmochina.com/wp-content/uploads/2020/03/Huawei-P40-Pro-500x500.jpg",
+        "storage": "256 GB",
+        "price": "$899",
+        "details": "The Huawei P40 Pro features a 6.58-inch OLED display, Kirin 990 processor, 5G connectivity, quad-camera system with 50MP main sensor, and more."
+      },
+      {
+            "id": 10,
+            "name": "Apple iPhone SE (2020)",
+            "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyaODbJJaIfoLZ-6ETUPfvSyqZ6iKzNC-vdw&usqp=CAU",
+            "storage": "64 GB",
+            "price": "$399",
+            "details": "The Apple iPhone SE (2020) features a 4.7-inch Retina HD display, A13 Bionic chip, Touch ID, and more."
+      },
+      {
+            "id": 11,
+            "name": "Samsung Galaxy A52",
+            "picture": "https://www.gsmmark.com/wp-content/uploads/2021/07/Samsung-Galaxy-A52.jpg",
+            "storage": "128 GB",
+            "price": "$449",
+            "details": "The Samsung Galaxy A52 features a 6.5-inch Super AMOLED display, Snapdragon 720G processor, 4G connectivity, quad-camera system with 64MP main sensor, and more."
+      },
+      {
+            "id": 12,
+            "name": "Google Pixel 4a",
+            "picture": "https://www.mobiledokan.co/wp-content/uploads/2020/03/Google-Pixel-4a-Just-Black.jpg",
+            "storage": "128 GB",
+            "price": "$349",
+            "details": "The Google Pixel 4a features a 5.81-inch OLED display, Snapdragon 730G processor, 4G connectivity, single 12.2MP rear camera, and more."
+      },
+      {
+            "id": 13,
+            "name": "OnePlus Nord",
+            "picture": "https://www.mobiledokan.co/wp-content/uploads/2022/01/OnePlus-Nord-2T-Green.jpg",
+            "storage": "128 GB",
+            "price": "$399",
+            "details": "The OnePlus Nord features a 6.44-inch Fluid AMOLED display, Snapdragon 765G processor, 5G connectivity, quad-camera system, and more."
+      },
+      {
+            "id": 14,
+            "name": "Xiaomi Redmi Note 10 Pro",
+            "picture": "https://www.mobiledokan.com/wp-content/uploads/2021/03/Xiaomi-Redmi-Note-10-Pro-image.jpg",
+            "storage": "128 GB",
+            "price": "$279",
+            "details": "The Xiaomi Redmi Note 10 Pro features a 6.67-inch AMOLED display, Snapdragon 732G processor, 4G connectivity, quad-camera system with 64MP main sensor, and more."
+      },
+        {
+            "id": 15,
+            "name": "Sony Xperia 1 III",
+            "picture": "https://phoneaqua.com/products/sony-xperia-1-iii.jpg",
+            "storage": "256 GB",
+            "price": "$1,299",
+            "details": "The Sony Xperia 1 III features a 6.5-inch OLED display, Snapdragon 888 processor, 5G connectivity, triple-camera system with ZEISS optics, and more."
+        },
+        {
+            "id": 16,
+            "name": "LG V60 ThinQ 5G",
+            "picture": "https://www.mobiledokan.co/wp-content/uploads/2020/08/LG-V60-ThinQ-5G-UW-Classy-Blue.jpg",
+            "storage": "128 GB",
+            "price": "$799",
+            "details": "The LG V60 ThinQ 5G features a 6.8-inch P-OLED display, Snapdragon 865 processor, 5G connectivity, triple-camera system with 64MP main sensor, and more."
+        },
+        {
+            "id": 17,
+            "name": "Asus ROG Phone 5",
+            "picture": "https://www.mobiledokan.co/wp-content/uploads/2021/01/Asus-ROG-Phone-5.jpg",
+            "storage": "128 GB",
+            "price": "$999",
+            "details": "The Asus ROG Phone 5 features a 6.78-inch AMOLED display, Snapdragon 888 processor, 5G connectivity, triple-camera system with 64MP main sensor, and more. It also has gaming-specific features like AirTrigger buttons and GameCool 5 cooling system."
+        },
+        {
+            "id": 18,
+            "name": "Nokia 7.2",
+            "picture": "https://www.mobiledokan.co/wp-content/uploads/2019/09/Nokia-7.2-Cayan-Green.jpg",
+            "storage": "128 GB",
+            "price": "$349",
+            "details": "The Nokia 7.2 features a 6.3-inch IPS LCD display, Snapdragon 660 processor, 4G connectivity, triple-camera system with ZEISS optics, and more."
+        },
+        {
+            "id": 19,
+            "name": "Motorola Moto G Power (2021)",
+            "picture": "https://www.bdprice.com.bd/wp-content/uploads/2021/01/Motorola-Moto-G-Power-2021.jpg",
+            "storage": "64 GB",
+            "price": "$249",
+            "details": "The Motorola Moto G Power (2021) features a 6.6-inch IPS LCD display, Snapdragon 662 processor, 4G connectivity, triple-camera system, and more. It also has a massive 5,000mAh battery for long-lasting use."
+        },
+        {
+            "id": 20,
+            "name": "Samsung Galaxy S20 FE",
+            "picture": "https://cdn.idealo.com/folder/Product/200687/5/200687507/s4_produktbild_gross_12/samsung-galaxy-s20-fe.jpg",
+            "storage": "128 GB",
+            "price": "$699",
+            "details": "The Samsung Galaxy S20 FE features a 6.5-inch Super AMOLED display, Snapdragon 865 processor, 5G connectivity, triple-camera system with 12MP main sensor, and more."
+        }
+       
+      ]
