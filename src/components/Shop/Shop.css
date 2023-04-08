@@ -8,7 +8,9 @@
 @media only screen and (max-width: 600px) {
 
     .shop-container{
-        display: flex;
+        display: grid;
+        grid-template-columns: 2fr 2fr;
+        gap: 10px;
         
         
     }
